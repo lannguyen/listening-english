@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lession_title">
+        <item>WHERE ARE YOU FROM?</item>
+        <item>DO YOU SPEAK ENGLISH?</item>
+        <item>WHAT’S YOUR NAME?</item>
+        <item>ASKING DIRECTIONS</item>
+        <item>I’M HUNGRY</item>
+        <item>DO YOU WANT SOMETHING TO DRINK?</item>
+        <item>THAT’S TOO LATE!</item>
+        <item>CHOOSING A TIME TO MEET</item>
+        <item>WHEN DO YOU WANT TO GO?</item>
+        <item>ORDERING FOOD</item>
+    </string-array>
+</resources>

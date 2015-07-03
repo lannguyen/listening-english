@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lession_mp3_link">
+        <item>http://localhost/eng/mp3/1_Where_are_you_from.MP3</item>
+        <item>http://localhost/eng/mp3/2_Do_you_speak_English.MP3</item>
+        <item>http://localhost/eng/mp3/3_What\'s_your_name.MP3</item>
+        <item>http://localhost/eng/mp3/4_Asking_directions.MP3</item>
+        <item>http://localhost/eng/mp3/5_I\'m_hungry.MP3</item>
+        <item>http://localhost/eng/mp3/6_Do_you_want_something_to_drink.MP3</item>
+        <item>http://localhost/eng/mp3/7_That\'s_too_late.MP3</item>
+        <item>http://localhost/eng/mp3/8_Choosing_a_time_to_meet.MP3</item>
+        <item>http://localhost/eng/mp3/9_When_do_you_want_to_go.MP3</item>
+        <item>http://localhost/eng/mp3/10_Ordering_food.MP3</item>
+    </string-array>
+</resources>
